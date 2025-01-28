@@ -1,0 +1,1 @@
+select * from users having age > 26
